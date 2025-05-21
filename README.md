@@ -1,0 +1,2 @@
+# Frostgate Verifier
+On the destination chain side, this component (often a smart contract or on-chain pallet) verifies incoming proofs before accepting the message. In early MVP, we may simulate verification off-chain or use minimal on-chain verification logic.
